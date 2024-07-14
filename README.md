@@ -17,7 +17,8 @@ In this context, the theoretical foundations and operating principles of each me
 **TF-IDF (Term Frequency-Inverse Document Frequency)**: TF-IDF considers frequency and inverse document frequency to determine the importance of a word in a document. This method is widely used in tasks such as document classification.
 
 ![outp2](https://github.com/user-attachments/assets/3a6c3632-4863-42b8-83c0-1b88bfe73d41)
-![Compare1_time](https://github.com/user-attachments/assets/fd4df351-375e-46ad-9afb-c8e78a1c25b3)
+![image](https://github.com/user-attachments/assets/b4ca896a-e96b-4f4f-88eb-83e4b24ccfaf)
+
 
 (One of the sample methods and Speed ​​comparison of methods)
 
