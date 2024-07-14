@@ -22,7 +22,7 @@ In this context, the theoretical foundations and operating principles of each me
 (One of the sample methods and Speed ​​comparison of methods)
 
 
-The project was prepared together with Ayşegül Akkaya, one of the students of KTU.
+The project was prepared together with Ayşegül Akkaya, one of the students of KTU. Progress was made under Doç. Dr. VASİF NABİYEV. Thanks for both of them.
 
     
 **utilized resources**
