@@ -21,7 +21,7 @@ In this context, the theoretical foundations and operating principles of each me
 
 
 
-(One of the sample methods and Speed ​​comparison of methods)
+(One of the sample methods and cosine similarity theorem)
 
 
 The project was prepared together with Ayşegül Akkaya, one of the students of KTU. Progress was made under Doç. Dr. VASİF NABİYEV. Thanks for both of them.
