@@ -1,5 +1,0 @@
-pandas
-openpyxl
-fasttext
-nltk
-scikit-learn
