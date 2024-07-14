@@ -20,6 +20,7 @@ The project was prepared together with Ayşegül Akkaya, one of the students of 
 
     
 **utilized resources**
+
 https://github.com/stanfordnlp/GloVe.git
 https://github.com/ahmetax/trstop
 The evaluation of word embedding models and deep learning algorithms for Turkish text classification. 4th International Conference on Computer Science and Engineering (2019)
